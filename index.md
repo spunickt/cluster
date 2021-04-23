@@ -1,1 +1,4 @@
-# Cluster - Discover great 
+---
+layout: base
+title: Cluster - Blog about Technology
+---
